@@ -25,6 +25,8 @@ public class Atleta {
 
     private String nome;
     private String emial;
+    private int idade;
     private double peso;
     private double altura;
+
 }
