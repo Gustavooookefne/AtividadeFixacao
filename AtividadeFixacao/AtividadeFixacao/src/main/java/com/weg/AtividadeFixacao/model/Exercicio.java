@@ -18,4 +18,7 @@ public class Exercicio {
     private String grupoMuscular;
     private String equipamento;
     private String videoUrl;
+
+    public Exercicio(String nome, String equipamento, String s, String s1) {
+    }
 }
