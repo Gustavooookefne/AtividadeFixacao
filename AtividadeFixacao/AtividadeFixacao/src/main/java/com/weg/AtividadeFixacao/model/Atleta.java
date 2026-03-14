@@ -29,4 +29,13 @@ public class Atleta {
     private double peso;
     private double altura;
 
+    public Atleta(String nome, String email, int idade, double peso, double altura) {
+    }
+
+    public Atleta() {
+
+    }
+
+    public Atleta(UUID id, String nome, String emial, int idade, double peso, double peso1, double altura) {
+    }
 }
